@@ -33,7 +33,8 @@ This Streamlit app is designed to detect whether a news article is likely fake o
 - Hides the Streamlit style for a cleaner interface.
 - Provides a text area for users to input news articles.
 - Upon clicking the "Check" button, predicts the authenticity of the input news article using the trained model and displays the result.
-- ![Rumor_output](https://github.com/Sri22082/rumorDetectionThroughNLP/assets/92198693/ab1e89a9-bca8-46e2-a3ae-98007c07d2ba)
+- ![Rumor_output](https://github.com/sivanathanselvaraj/rumorDetectionThroughnNLP/1xaS4vK3hvdtFQ6ufEHY05qKaiy29-E5z)
+
 
 
 ## Usage
@@ -55,8 +56,8 @@ This Streamlit app is designed to detect whether a news article is likely fake o
 ## Credits
 
 - This project was created by:
+-  S. Sivanathan
 -  M.Srimanjunadh
--  Sivanathan S
 -  Name of The University: Puducherry Technological University
 - Dataset source: https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news
 
