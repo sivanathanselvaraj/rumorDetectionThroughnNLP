@@ -38,7 +38,7 @@ This Streamlit app is designed to detect whether a news article is likely fake o
 
 ## Usage
 
-1. **Clone the Repository**: `git clone https://github.com/Sri22082/rumorDetectionThroughNLP.git`
+1. **Clone the Repository**: `https://github.com/sivanathanselvaraj/rumorDetectionThroughnNLP`
 2. **Navigate to Project Directory**: `cd rumorDetectionThroughNLP`
 3. **Set Up Virtual Environment** (Optional but recommended):
    - **Create Virtual Environment**: `python -m venv env`
@@ -57,7 +57,7 @@ This Streamlit app is designed to detect whether a news article is likely fake o
 - This project was created by:
 -  M.Srimanjunadh
 -  Sivanathan S
--  Name of The University : Puducherry Technological University
+-  Name of The University: Puducherry Technological University
 - Dataset source: https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news
 
 ## License
