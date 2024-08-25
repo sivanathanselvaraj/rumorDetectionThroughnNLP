@@ -55,7 +55,7 @@ This Streamlit app is designed to detect whether a news article is likely fake o
 ## Credits
 
 - This project was created by:
--  M.Srimanjunadh[Team Leader]
+-  M.Srimanjunadh
 -  Sivanathan S
 -  Name of The University : Puducherry Technological University
 - Dataset source: https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news
