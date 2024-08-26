@@ -96,7 +96,7 @@ def main():
 # Run the Streamlit app
 if __name__ == "__main__":
     main()
-st.markdown("**Created with enthusiasm by Manju**")
+st.markdown("**Created with enthusiasm by Siva**")
 
 ##run with command:  .\venv\Scripts\Activate.ps1 (Enabling virtual Environment)
 
